@@ -63,7 +63,6 @@ python3 HW_3.Shukaliuk.py test_source test_distination
 
 """
 
-"""
 import turtle
 
 user_input = int(input('Enter fractal lvl: '))
@@ -97,5 +96,3 @@ def draw_koch_curve(order, size=300):
     window.mainloop()
 
 draw_koch_curve(order) 
-
-"""
